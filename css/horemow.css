@@ -368,6 +368,52 @@ textarea {
 }
 
 
+
+
+.btn.white-green{
+    background-color:#fff; /*#073d5f*/;
+    color: #048174/*#92c8c8*/;
+}
+
+.btn.light-blue {
+    background-color: #92c8c8;
+    color: #fff;
+}
+
+.btn.white-orange {
+    color:#CE7852;
+    background-color: #fff;
+}
+
+.has-background-deep-blue {
+    background-color: #073d5f;
+}
+
+.has-text-light-blue {
+    color: #92c8c8;
+}
+
+.has-text-deep-blue {
+    color: #073d5f;
+}
+
+.has-text-deep-green {
+    color: #048174;
+}
+
+.has-background-deep-green {
+    background-color:#048174;
+}
+
+.has-background-light-blue {
+    background-color:#92c8c8;
+}
+
+.btn.deep-green {
+    background-color: #048174;
+    color: #fff;
+}
+
 .round {
     border-radius:25px !important;
     padding:12px !important;
@@ -447,6 +493,11 @@ textarea {
 .btn.orange {
     background-color: #E0563B;
     color: white;
+}
+
+.btn.orange-dark {
+    background-color: #CE7852;
+    color: #fff;
 }
 
 
