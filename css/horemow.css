@@ -344,7 +344,7 @@ textarea {
 */
 
 .btn {
-    width:190px;
+    min-width:190px;
     padding:11px;
     text-align:center;
     font-family:'Montserrat';
